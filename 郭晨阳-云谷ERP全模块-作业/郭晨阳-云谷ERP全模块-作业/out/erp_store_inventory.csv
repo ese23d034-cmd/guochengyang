@@ -1,0 +1,4 @@
+﻿store_id,store_name,product_id,material_name,qty_on_hand,avg_cost,reorder_point,target_stock
+ST-B,滨江店,FG-001,招牌牛肉米粉,280.0,9.116125,220.0,400.0
+ST-C,城西店,FG-001,招牌牛肉米粉,110.0,9.116138,100.0,160.0
+ST-C,城西店,FG-002,酸辣肥肠米粉,90.0,8.052988,60.0,160.0
